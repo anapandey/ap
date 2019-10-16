@@ -36,6 +36,7 @@ section {
     width:80%;
     margin:0 auto;
 }
+
 .btn {
     padding:8px 35px;
     background:transparent;
@@ -47,9 +48,41 @@ section {
     border:1px solid crimson;
     color:crimson;
 }
+.email-btn a{
+    color:crimson;
+    padding:2px 0px;
+}
+.email-btn a:hover,
+.email-btn a:focus {
+    color:white;
+}
+.email-btn:hover,
+.email-btn:focus,
+.email-btn:active{
+    border:none;
+    color:white;
+    background-color: crimson;
+    transition: .2s ease all;
+}
 .works-btn{
     border:1px solid #0099FF;
     color:#0099FF;
+}
+.works-btn a{
+    color:#0099FF;
+    padding:2px 0px;
+}
+.works-btn a:hover,
+.works-btn a:focus {
+    color:white;
+}
+.works-btn:hover,
+.works-btn:focus,
+.works-btn:active{
+    border:none;
+    color:white;
+    background-color:#0099FF;
+    transition: .2s ease all;
 }
 /* top-nav ----------------------------------------------------------------*/
 .top-nav{
