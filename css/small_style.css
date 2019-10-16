@@ -24,7 +24,7 @@ section {
 .menu-overlay.open {
     background-color: #000;
     width: 100%;
-    height:40%;
+    height:60%;
     opacity:1 !important;
 }
 nav {
