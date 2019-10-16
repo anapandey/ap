@@ -1,0 +1,53 @@
+/* style-sheet for medium devices */
+
+
+
+.menu-overlay.open {
+    background-color: #000;
+    width: 40%;
+    height:100%;
+    opacity:1 !important;
+}
+nav {
+    top: 50%;
+    font-size: 1.1em;
+}
+#about {
+    height:400px;
+}
+.aboutme{
+    width:80%;
+    margin:0 auto;
+    padding:80px 20px 20px 20px;
+}
+#work {
+    height:500px;
+}
+.container {
+    width:80%;
+    margin-top:50px;
+    margin-left:auto;
+    margin-right:auto;
+    text-align: center;
+}
+.gallery-box{
+    width:46%;
+    margin:10px;
+    height:auto;
+    float:left;
+    box-sizing:border-box;
+    box-shadow:none;
+}
+
+.skill-container {
+    width:100%;
+    padding:50px;
+    background-color:transparent;
+    text-align:center;
+    box-shadow:none;
+}
+.contact-container {
+    padding:40px;
+    margin-top:20px;
+}
+
