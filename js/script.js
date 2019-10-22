@@ -10,7 +10,7 @@ $(document).ready(function () {
 	$(function () {
 		count = 0;
 		skillArray = [
-			"Basic Website Design",
+			"Landing page Design",
 			"WordPress website design based on theme",
 			"WordPress website design from scratch"
 
@@ -43,9 +43,9 @@ $(document).ready(function () {
 	$(function () {
 		count = 0;
 		featureArray = [
-			"Single Page / Multi Page website",
-			"Multi Page Wordpress website",
-			"Multi Page Wordpress website"
+			"Single page website",
+			"Multi page Wordpress website",
+			"Multi page Wordpress website"
 		];
 		setInterval(function () {
 			count++;
