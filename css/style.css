@@ -104,10 +104,9 @@ section {
     background-color: crimson;
     transition: .2s ease all;
 }
-.works-btn{
-    display:none;  
-    /*border:1px solid #0099FF;
-    color:#0099FF; */
+.works-btn{ 
+    border:1px solid #0099FF;
+    color:#0099FF;
 }
 .works-btn a{
     color:#0099FF;
@@ -130,7 +129,7 @@ section {
     width:100%;
     margin:0 auto;
     height:80px;
-    background:transparent;
+    background:ghostwhite;
     position:fixed;
     top:40px;
     left:0;
