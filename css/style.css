@@ -47,7 +47,7 @@ section {
    height:600px;
  }
 #about{
-    background-color:ghostwhite; 
+    background-color:transparent; 
 }
 
 #works{
@@ -70,7 +70,8 @@ section {
     margin:0 auto;
 }
 .banner-text h2{
-    color:#333;
+    color:ghostwhite;
+    font-size:300%;
 }
 
 .btn {
@@ -104,8 +105,9 @@ section {
     transition: .2s ease all;
 }
 .works-btn{
-    border:1px solid #0099FF;
-    color:#0099FF;
+    display:none;  
+    /*border:1px solid #0099FF;
+    color:#0099FF; */
 }
 .works-btn a{
     color:#0099FF;
@@ -137,7 +139,7 @@ section {
     position:absolute;
     top:20px;
     left:30px;
-    color:#999;
+    color:#fff;
     font-family: 'Pacifico', cursive;
     font-size:1.2em;
 }
