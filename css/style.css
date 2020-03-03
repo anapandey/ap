@@ -47,7 +47,7 @@ section {
    height:600px;
  }
 #about{
-    background-color:transparent; 
+    background-color:ghostwhite; 
 }
 
 #works{
@@ -130,7 +130,7 @@ section {
     width:100%;
     margin:0 auto;
     height:80px;
-    background:ghostwhite;
+    background:transparent;
     position:fixed;
     top:40px;
     left:0;
