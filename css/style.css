@@ -14,11 +14,12 @@ section {
     margin:0 auto;
 }
 #banner{
-   background-image:url(../img/hero_slide8.jpg);
+   background-image:url(../img/desk.jpg);
    background-size:cover;
    background-repeat:no-repeat;
    background-position: center;
    padding:0px 0px 0px 0px;
+   height:800px;
 }
 #project1-banner{
     background-image:url(../img/vancouver.jpg);
@@ -138,7 +139,7 @@ section {
     position:absolute;
     top:20px;
     left:30px;
-    color:#fff;
+    color:#999;
     font-family: 'Pacifico', cursive;
     font-size:1.2em;
 }
