@@ -72,8 +72,12 @@ section {
 }
 .banner-text h2{
     color:ghostwhite;
+    font-size:300%;
 }
-
+.banner-text h2 span{
+    color:ghostwhite;
+    font-size:150%;
+}
 .btn {
     padding:8px 15px;
     background:transparent;
